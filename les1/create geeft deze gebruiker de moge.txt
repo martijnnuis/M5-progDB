@@ -1,0 +1,11 @@
+create: geeft deze gebruiker de mogelijkheid om een database of een tabel aan te maken
+wanneer heb je dit nodig? als beheerder wil je misschien een nieuwe database of tabel kunnen aanmaken zodat je meer functionaliteiten kan toevoegen aan je site.
+wat kan een hacker hiermee? die kunnen hiermee gegevens stelen
+
+trigger: een trigger is een setje van sql statements die iedere keer runnen als je een nieuwe rij maakt, update of verwijderd
+
+alter: hiermee kan je een bestaand mysql veranderen
+
+event: events zijn een setje code die iets op een bepaalde tijd uitvoeren dit doet de server zelf
+wanneer heb je dit nodig? als je iets over de hele server wilt veranderen maar dit wilt laten doen als niemand of weinig mensen online zijn
+wat kan een hacker hier mee? die kan een schema instellen die alles verwijderd dat gemaakt wordt dat kan heel frustrerend zijn
