@@ -1,0 +1,11 @@
+variabele adress bedrijf:
+straatnaam = varchar
+nummer = varchar
+plaats = string
+postcode = varchar
+
+waarom vinken we we deze eigenschappen aan?
+PK, omdat we dit als willen kunnen versturen naar een andere table
+NN, omdat het dan niet niks kan zijn dus er moet wel wat in staan om naar een andere table verstuurd te kunnen worden
+UQ, omdat we niet willen dat er nog een andere ID komt met hetzelfde ID dan kan het mis gaan
+UN, omdat de ID op dit moment nog nergens aanvast zit dit moeten we nog invullen dus dit kan pas later worden veranderd zodra we ook informatie er aan kunnen linken
